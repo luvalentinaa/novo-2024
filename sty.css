@@ -1,0 +1,14 @@
+#informacoes{
+background-color: rgb(238, 132, 132);
+font-size: 2em;
+border: 1px solid #e91fdf;
+padding: 25px;
+}
+thead{
+color: #fff;
+}
+
+tr, th, td{
+border-bottom: 1px solid #fff;
+border-right: 1px solid #fff;
+}
